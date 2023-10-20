@@ -13,19 +13,3 @@ Specs
 * Used ViewPager to facilitate swipe navigation to subsequent attraction while in details screen
 * Used ConstrainLayout to build the base UI for splash screen and details screen (landscape)
 * Written in Java 8 with Lambdas
-
-Tools
-------
-
-* Gradle 4.4
-* Android Gradle Plugin 3.1.3
-* Support Library 27.1.1
-* Android API 27
-* Android Build Tools 27
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
